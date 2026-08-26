@@ -1,8 +1,11 @@
+import Footer from "@/components/Footer";
+import OpenSanook from "@/components/OpenSanook";
 export default function Page() {
     return (
         <div>
             <h1>Acer Notebook Page</h1>
-
+            <OpenSanook />
+            <Footer />
         </div>
     );
 }
