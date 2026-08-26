@@ -9,6 +9,8 @@ export default function Page() {
     <h3>Link to Basic Routing Page</h3>
     <Link href="/register">[Register Page]</Link><br />
     <Link href="/products">[Products Page]</Link> <br />
+    <Link href="/member">[Member Page]</Link> <br />
+
 
     
 
